@@ -9,7 +9,6 @@ use BlockDist;  // use the block distribution
   Here we set up several config consts that represent, in order:
     - ``N``, the dimension for the square array ``A``
     - ``K``, the second dimension for arrays ``X`` and ``B``
-    - ``epsilon``, the margin of error for success
     - ``seed``, a seed for random number generation
 */
 
